@@ -1,0 +1,9 @@
+path: C:\Users\julio\Downloads\VSCode\Python\PIABrazoClasificador\dataset
+train: images/train
+val: images/val
+
+#Clases
+nc: 2
+names:
+ 0: good_fork
+ 1: bad_fork
