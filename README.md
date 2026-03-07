@@ -6,3 +6,4 @@ Este repositorio esta hecho con la finalidad de compartir y respaldar creaciones
 - Brazo robotico;
 - Brazo robotico clasificador;
 - Funcionamiento de microcontroladores(STM32, ESP32 y Raspberry);
+- Analisis de datos
